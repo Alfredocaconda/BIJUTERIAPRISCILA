@@ -1,0 +1,8 @@
+ <P>EXEMPLO X
+                <SUP>2</SUP> e H
+                <SUB>2</SUB>O
+                <br> simbolos &gt;&lt;&ge; &le;
+                <br> simbolos japones &pound; &yen;&euro; &copy; &reg;&trade;&permil;&sum;&infin;&times; &plusmn;&oplus;&radic;&ne;
+                <br> &Delta;&lambda;&omega;&phi;
+                <br> &larr;&rarr;&Rarr;&uarr;&darr;&harr; &spades;&clubs;&hearts;&diam;
+            </P>
